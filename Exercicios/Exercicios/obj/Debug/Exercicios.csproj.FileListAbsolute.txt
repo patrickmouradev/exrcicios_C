@@ -1,0 +1,10 @@
+D:\CURSO\C#_NET\Exercicio_1\exrcicios_C\Exercicios\Exercicios\bin\Debug\Exercicios.exe.config
+D:\CURSO\C#_NET\Exercicio_1\exrcicios_C\Exercicios\Exercicios\bin\Debug\Exercicios.exe
+D:\CURSO\C#_NET\Exercicio_1\exrcicios_C\Exercicios\Exercicios\bin\Debug\Exercicios.pdb
+D:\CURSO\C#_NET\Exercicio_1\exrcicios_C\Exercicios\Exercicios\obj\Debug\Exercicios.csprojAssemblyReference.cache
+D:\CURSO\C#_NET\Exercicio_1\exrcicios_C\Exercicios\Exercicios\obj\Debug\Exercicios.Exercicios.resources
+D:\CURSO\C#_NET\Exercicio_1\exrcicios_C\Exercicios\Exercicios\obj\Debug\Exercicios.Properties.Resources.resources
+D:\CURSO\C#_NET\Exercicio_1\exrcicios_C\Exercicios\Exercicios\obj\Debug\Exercicios.csproj.GenerateResource.cache
+D:\CURSO\C#_NET\Exercicio_1\exrcicios_C\Exercicios\Exercicios\obj\Debug\Exercicios.csproj.CoreCompileInputs.cache
+D:\CURSO\C#_NET\Exercicio_1\exrcicios_C\Exercicios\Exercicios\obj\Debug\Exercicios.exe
+D:\CURSO\C#_NET\Exercicio_1\exrcicios_C\Exercicios\Exercicios\obj\Debug\Exercicios.pdb
