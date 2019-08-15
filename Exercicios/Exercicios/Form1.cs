@@ -47,7 +47,8 @@ namespace Exercicios
             var velMedia = Convert.ToDouble(textVelMedia.Text);
             var tempPerc = TimeSpan.Parse(textTmpViag.Text).TotalHours;
             var distancia = velMedia * tempPerc;
-            var litros = distancia / 12;
+            var kmLitros = 12;
+            var litros = distancia / kmLitros;
 
             textResultExe4.Text = $"A Distancia percorrida foi: {distancia}km e gastou {litros}litros";
 
@@ -57,7 +58,8 @@ namespace Exercicios
         {
             var salFixo = Convert.ToDouble(textSalFixo.Text);
             var volVendas = Convert.ToDouble(textVolVendas.Text);
-            var salarioAtuali = (salFixo + (volVendas * 0.10)).ToString("C");
+            var porcAcrescimo = 0.10;
+            var salarioAtuali = (salFixo + (volVendas * porcAcrescimo)).ToString("C");
             textResultExe5.Text = $"O Salario do {textNameFun.Text} este mês é {salarioAtuali}";
         }
     }
